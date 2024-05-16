@@ -1,0 +1,9 @@
+{
+  "item.mymod.sapphire": "Sapphire",
+  "item.mymod.raw_sapphire": "Raw Sapphire",
+
+  "block.mymod.sapphire_block": "Block Of Sapphire",
+  "block.mymod.raw_sapphire_block": "Block Of Raw Sapphire",
+
+  "creativetab.mymod_tab": "My Mod Tab"
+}
