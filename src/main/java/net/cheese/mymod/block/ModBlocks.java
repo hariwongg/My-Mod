@@ -1,6 +1,7 @@
 package net.cheese.mymod.block;
 
 import net.cheese.mymod.Mymod;
+import net.cheese.mymod.block.custom.SoundBlock;
 import net.cheese.mymod.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
@@ -26,6 +27,9 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> RAW_SAPPHIRE_BLOCK = registerBlock("raw_sapphire_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
+
+    public static final RegistryObject<Block> SOUND_BLOCK = registerBlock("sound_block",
+            () -> new SoundBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
 
     //ORE
     public static final RegistryObject<Block> SAPPHIRE_ORE = registerBlock("sapphire_ore",

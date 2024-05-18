@@ -1,9 +1,12 @@
 {
   "item.mymod.sapphire": "Sapphire",
   "item.mymod.raw_sapphire": "Raw Sapphire",
+  "item.mymod.metal_detector": "Metal Detector",
+  "item.mymod.strawberry": "Strawberry",
 
   "block.mymod.sapphire_block": "Block Of Sapphire",
   "block.mymod.raw_sapphire_block": "Block Of Raw Sapphire",
+  "block.mymod.sound_block": "Sound Block",
   "block.mymod.sapphire_ore": "Sapphire Ore",
   "block.mymod.nether_sapphire_ore": "Nether Sapphire Ore",
   "block.mymod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
