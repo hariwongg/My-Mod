@@ -19,10 +19,6 @@ public class ModCreativeModTabs {
                     .title(Component.translatable("creativetab.mymod_tab")).displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.SAPPHIRE.get());
                         output.accept(ModItems.RAW_SAPPHIRE.get());
-
-                        output.accept(ModItems.METAL_DETECTOR.get());
-
-
                         output.accept(ModBlocks.SAPPHIRE_BLOCK.get());
                         output.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
                         output.accept(ModBlocks.SAPPHIRE_ORE.get());
