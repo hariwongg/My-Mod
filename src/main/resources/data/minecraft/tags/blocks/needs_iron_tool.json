@@ -1,0 +1,10 @@
+{
+  "values": [
+    "mymod:sapphire_block",
+    "mymod:raw_sapphire_block",
+    "mymod:sapphire_ore",
+    "mymod:deepslate_sapphire_ore",
+    "mymod:nether_sapphire_ore",
+    "mymod:end_stone_sapphire_ore"
+  ]
+}
