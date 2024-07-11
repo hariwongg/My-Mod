@@ -31,6 +31,7 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.METAL_DETECTOR.get());
 
                         output.accept(ModItems.STRAWBERRY.get());
+                        output.accept(ModItems.PINE_CONE.get());
                     }).build());
 
     public static void register(IEventBus eventBus) {
